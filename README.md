@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Seva / Gromovick</h1>
 <h3 align="center">A passionate frontend developer from Ukraine</h3>
-
+<link rel="stylesheet" href="https://raw.githubusercontent.com/AlpineJS/alpine/main/dist/cdn.min.css">
+<div x-data="{ open: false }">
+  <button x-on:click="open = ! open">Toggle</button>
+  <p x-show="open">This text will be toggled!</p>
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gromovick&label=Profile%20views&color=0e75b6&style=flat" alt="gromovick" /> </p>
 <p align="center"><img src="https://static.wikia.nocookie.net/jujutsu-kaisen/images/3/36/Chain_of_a_Thousand_Miles_%28Anime%29.gif/revision/latest?cb=20240608032837" width="100%" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gromovick" alt="gromovick" /></a> </p>
