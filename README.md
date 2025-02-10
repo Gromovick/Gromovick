@@ -15,8 +15,12 @@
 </p
 
 <style>
-  p{
-    color: green;
+  p {
+    color: #26b72b;
+  }
+  code {
+    font-weight: bold;
+  }
 </style>
 
 <h3 align="left">Languages and Tools:</h3>
