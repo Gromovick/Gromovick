@@ -1,4 +1,5 @@
 <img src="https://youtubewidget.onrender.com/?id=UCAmvJv2NTMmwRda5aK7q5WA" />
+![GRSS](https://youtubewidget.onrender.com/?id=UCAmvJv2NTMmwRda5aK7q5WA)
 <h1 align="center">Hi 👋, I'm Vsevolod Kozyr</h1>
 <h3 align="center">A passionate frontend developer from Ukraine</h3>
 
