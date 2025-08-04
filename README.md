@@ -1,6 +1,7 @@
 <a href="https://www.youtube.com/@grom3315" target="blank">
   ![Hello](https://youtubewidget-xv7j.onrender.com/?id=UCAmvJv2NTMmwRda5aK7q5WA&type=popular)
 </a>
+![Hello](https://youtubewidget-xv7j.onrender.com/?id=UCAmvJv2NTMmwRda5aK7q5WA&type=popular)
 <h1 align="center">Hi 👋, I'm Vsevolod Kozyr</h1>
 <h3 align="center">A passionate frontend developer from Ukraine</h3>
 
