@@ -1,5 +1,5 @@
 <a href="https://www.youtube.com/@grom3315" target="blank">
-  <img src="https://youtubewidget-xv7j.onrender.com/?id=UCBSs9x2KzSLhyyA9IKyt4YA&type=latest&live=true" />
+  <img src="https://youtubewidget-xv7j.onrender.com/?id=UCBSs9x2KzSLhyyA9IKyt4YA&type=last&live=true" />
 </a>
 <h1 align="center">Hi 👋, I'm Vsevolod Kozyr</h1>
 <h3 align="center">A passionate frontend developer from Ukraine</h3>
