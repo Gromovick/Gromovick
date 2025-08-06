@@ -1,8 +1,8 @@
 <a href="https://www.youtube.com/@grom3315" target="blank">
   <img width="420" src="https://you-tube-widget-prhl.vercel.app/?id=UCY1kMZp36IQSyNx_9h4mpCg&type=popular&live=true" />
   <img width="420" src="https://static.wikia.nocookie.net/jujutsu-kaisen/images/3/36/Chain_of_a_Thousand_Miles_%28Anime%29.gif/revision/latest?cb=20240608032837"  />
-  <img width="420" src="[https://i.pinimg.com/originals/4c/5f/4b/4c5f4b335e8ecc39789d0f85771a9c52.gif](https://i.pinimg.com/originals/4c/5f/4b/4c5f4b335e8ecc39789d0f85771a9c52.gif)" />
-  <img width="420" src="https://you-tube-widget-prhl.vercel.app/?id=UCY1kMZp36IQSyNx_9h4mpCg&type=popular&live=true" />
+  <img width="420" src="https://i.pinimg.com/originals/4c/5f/4b/4c5f4b335e8ecc39789d0f85771a9c52.gif"/>
+  <img width="420" src="https://you-tube-widget-prhl.vercel.app/?id=UCY1kMZp36IQSyNx_9h4mpCg&type=popular&live=true"/>
 </a>
 <h1 align="center">Hi 👋, I'm Vsevolod Kozyr</h1>
 <h3 align="center">A passionate frontend developer from Ukraine</h3>
