@@ -15,7 +15,7 @@
 
 
 
-<p align="center"><img src="https://static.wikia.nocookie.net/jujutsu-kaisen/images/3/36/Chain_of_a_Thousand_Miles_%28Anime%29.gif/revision/latest?cb=20240608032837" width="100%" /></p>
+<p align="center"><img width="420" src="https://static.wikia.nocookie.net/jujutsu-kaisen/images/3/36/Chain_of_a_Thousand_Miles_%28Anime%29.gif/revision/latest?cb=20240608032837" width="100%" /></p>
 
 
 
