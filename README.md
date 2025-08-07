@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vsevolod Kozyr</h1>
-<h3 align="center" color="#FFFB21" >A passionate frontend developer from $${\color{#FFFB21}\verb||Ukr}{\color{blue}\verb||aine}$$</h3>
+<h3 align="center">A passionate frontend developer from $$\textcolor{#FFFB21}{Ukr}\textcolor{blue}{aine}$$</h3>
+
 <img width="100%" height="10" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Solid_red.svg/768px-Solid_red.svg.png" />
 <p align="center">
   $${\color{green} \verb|**|text}$$
