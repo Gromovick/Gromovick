@@ -1,11 +1,13 @@
 <img width="100%" height="10" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Solid_red.svg/768px-Solid_red.svg.png" />
 <p align="center">
   <img width="400" border="20" src="https://static.wikia.nocookie.net/jujutsu-kaisen/images/3/36/Chain_of_a_Thousand_Miles_%28Anime%29.gif/revision/latest?cb=20240608032837"  />
+  <img width="10" height="225" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Solid_red.svg/768px-Solid_red.svg.png" />
   <img width="400" border="20" src="https://static.wikia.nocookie.net/jujutsu-kaisen/images/3/36/Chain_of_a_Thousand_Miles_%28Anime%29.gif/revision/latest?cb=20240608032837"  />
   <img width="400" border="20" src="https://static.wikia.nocookie.net/jujutsu-kaisen/images/3/36/Chain_of_a_Thousand_Miles_%28Anime%29.gif/revision/latest?cb=20240608032837"  />
-  <img width="10" height="700" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Solid_red.svg/768px-Solid_red.svg.png" />
+  <img width="10" height="225" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Solid_red.svg/768px-Solid_red.svg.png" />
   <img width="400" border="20" src="https://static.wikia.nocookie.net/jujutsu-kaisen/images/3/36/Chain_of_a_Thousand_Miles_%28Anime%29.gif/revision/latest?cb=20240608032837"  />
   <img width="400" border="20" src="https://static.wikia.nocookie.net/jujutsu-kaisen/images/3/36/Chain_of_a_Thousand_Miles_%28Anime%29.gif/revision/latest?cb=20240608032837"  />
+  <img width="10" height="225" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Solid_red.svg/768px-Solid_red.svg.png" />
   <img width="400" border="20" src="https://static.wikia.nocookie.net/jujutsu-kaisen/images/3/36/Chain_of_a_Thousand_Miles_%28Anime%29.gif/revision/latest?cb=20240608032837"  />
 </p>
 <h1 align="center">Hi 👋, I'm Vsevolod Kozyr</h1>
