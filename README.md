@@ -3,7 +3,7 @@
 
 <img width="100%" height="10" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Solid_red.svg/768px-Solid_red.svg.png" />
 <p align="center">
-  $${\color{green} \verb|**|text}$$
+  $${\color{#FFFB21} \verb|**|text}$$
   <img width="400" src="https://you-tube-widget-prhl.vercel.app/?id=UCY1kMZp36IQSyNx_9h4mpCg&type=popular&live=true"/>
  <img width="10" height="225" src="https://github.com/Gromovick/lol/blob/main/Rectangle_2.svg" />
   <img width="400" border="20" src="https://i.imgur.com/sslvGcl.gif"/>
