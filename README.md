@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vsevolod Kozyr</h1>
 <h3 align="center" color="#FFFB21" >A passionate frontend developer from Ukraine</h3>
+$${\color{#FFFB21}Light \space Grey}$$.
 <img width="100%" height="10" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Solid_red.svg/768px-Solid_red.svg.png" />
 <p align="center">
   <img width="400" src="https://you-tube-widget-prhl.vercel.app/?id=UCY1kMZp36IQSyNx_9h4mpCg&type=popular&live=true"/>
