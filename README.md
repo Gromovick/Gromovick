@@ -1,17 +1,12 @@
+<h1 align="center">Hi 👋, I'm Vsevolod Kozyr</h1>
+<h3 align="center" color="#FFFB21" >A passionate frontend developer from Ukraine</h3>
 <img width="100%" height="10" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Solid_red.svg/768px-Solid_red.svg.png" />
 <p align="center">
-  <img width="400" border="20" src="https://static.wikia.nocookie.net/jujutsu-kaisen/images/3/36/Chain_of_a_Thousand_Miles_%28Anime%29.gif/revision/latest?cb=20240608032837"  />
+  <img width="400" src="https://you-tube-widget-prhl.vercel.app/?id=UCY1kMZp36IQSyNx_9h4mpCg&type=popular&live=true"/>
  <img width="10" height="225" src="https://github.com/Gromovick/lol/blob/main/Rectangle_2.svg" />
-  <img width="400" border="20" src="https://static.wikia.nocookie.net/jujutsu-kaisen/images/3/36/Chain_of_a_Thousand_Miles_%28Anime%29.gif/revision/latest?cb=20240608032837"  />
-  <img width="400" border="20" src="https://static.wikia.nocookie.net/jujutsu-kaisen/images/3/36/Chain_of_a_Thousand_Miles_%28Anime%29.gif/revision/latest?cb=20240608032837"  />
-  <img width="10" height="225" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Solid_red.svg/768px-Solid_red.svg.png" />
-  <img width="400" border="20" src="https://static.wikia.nocookie.net/jujutsu-kaisen/images/3/36/Chain_of_a_Thousand_Miles_%28Anime%29.gif/revision/latest?cb=20240608032837"  />
-  <img width="400" border="20" src="https://static.wikia.nocookie.net/jujutsu-kaisen/images/3/36/Chain_of_a_Thousand_Miles_%28Anime%29.gif/revision/latest?cb=20240608032837"  />
-  <img width="10" height="225" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Solid_red.svg/768px-Solid_red.svg.png" />
-  <img width="400" border="20" src="https://static.wikia.nocookie.net/jujutsu-kaisen/images/3/36/Chain_of_a_Thousand_Miles_%28Anime%29.gif/revision/latest?cb=20240608032837"  />
+  <img width="400" border="20" src="https://i.imgur.com/sslvGcl.gif"/>
 </p>
-<h1 align="center">Hi 👋, I'm Vsevolod Kozyr</h1>
-<h3 align="center">A passionate frontend developer from Ukraine</h3>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gromovick&show_icons=true&locale=en&layout=compact" alt="gromovick" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=gromovick&show_icons=true&locale=en" alt="gromovick" /></p>
