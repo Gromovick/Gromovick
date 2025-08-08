@@ -8,12 +8,13 @@
     <img width="400" height="160" autoplay src="https://i.pinimg.com/originals/4d/83/9c/4d839c6f283ef7aa74d516fdd350f173.gif"/>
    <img width="10" height="160" src="https://github.com/Gromovick/lol/blob/main/Rectangle_2.svg" />
   <img width="400" src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198892412093&show_recent_game_bg=true"/>
-     <img width="400" height="111" src="https://github.com/Gromovick/lol/blob/main/gl_1.gif" />
-   <img width="10" height="111" src="https://github.com/Gromovick/lol/blob/main/Rectangle_2.svg" />
-  <a href="https://github.com/your-username/your-repo" target="_blank" rel="noopener noreferrer">
- <a href="https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI" target="_blank" rel="noopener">
+  <a href="https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI" target="_blank" rel="noopener">
     <img width="400" src="https://novatorem.bgstatic.vercel.app/api/spotify" alt="Spotify" />
   </a>
+   <img width="10" height="111" src="https://github.com/Gromovick/lol/blob/main/Rectangle_2.svg" />
+     <img width="400" height="111" src="https://github.com/Gromovick/lol/blob/main/gl_1.gif" />
+  
+ 
 </a>
 </p>
 
