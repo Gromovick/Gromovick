@@ -5,7 +5,7 @@
 <p align="center">
   <img width="400" src="https://you-tube-widget-prhl.vercel.app/?id=UCY1kMZp36IQSyNx_9h4mpCg&type=popular&live=true"/>
    <img width="10" height="243" src="https://github.com/Gromovick/lol/blob/main/Rectangle_2.svg" />
-  <img width="400" height="243" src="https://64.media.tumblr.com/2555299509bdffa79d30b3859964e5a8/5d506a7a7e64076e-87/s540x810/fee171633f51136a2cf9f432d2c0e50e41c64b4e.gifv"/>
+  <img width="400" height="243" src="https://64.media.tumblr.com/2555299509bdffa79d30b3859964e5a8/5d506a7a7e64076e-87/s540x810/fee171633f51136a2cf9f432d2c0e50e41c64b4e.gif"/>
     <img width="400" height="160" src="https://i.pinimg.com/originals/4d/83/9c/4d839c6f283ef7aa74d516fdd350f173.gif"/>
    <img width="10" height="160" src="https://github.com/Gromovick/lol/blob/main/Rectangle_2.svg" />
   <img width="400" src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198892412093&show_in_game_bg=false&show_recent_game_bg=true"/>
