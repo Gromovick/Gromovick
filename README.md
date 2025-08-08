@@ -8,7 +8,7 @@
   <img width="400" height="243" src="https://i.imgur.com/sslvGcl.gif"/>
     <img width="400" height="160" src="https://i.imgur.com/sslvGcl.gif"/>
    <img width="10" height="160" src="https://github.com/Gromovick/lol/blob/main/Rectangle_2.svg" />
-  <img width="400" src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198892412093&show_in_game_bg=true&show_recent_game_bg=true"/>
+  <img width="400" src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198892412093&show_in_game_bg=false&show_recent_game_bg=true"/>
 </p>
 
 
